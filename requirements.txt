@@ -1,0 +1,8 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+python-dotenv
+livekit-api
+flask
+flaskflask-cors
+uvicorn

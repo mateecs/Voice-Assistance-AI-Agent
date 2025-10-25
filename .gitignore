@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+venv/
+.venv/
+.env
+*.log
+*.sqlite3
+
+# VSCode / PyCharm
+.vscode/
+.idea/
